@@ -432,3 +432,56 @@ int main()
     result();                                       //find the result
     return 0;
 }
+package ce1002.project.s103502522;
+
+import java.awt.*;
+import java.awt.event.*;
+
+import javax.swing.*;
+
+public class P extends JFrame implements ActionListener, MouseListener {
+
+	public P() {
+		
+	}
+
+	public static void main(String[] args) {
+		new P();
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void mouseClicked(MouseEvent e) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void mousePressed(MouseEvent e) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void mouseReleased(MouseEvent e) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void mouseEntered(MouseEvent e) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void mouseExited(MouseEvent e) {
+		// TODO Auto-generated method stub
+
+	}
+}
